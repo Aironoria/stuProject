@@ -1,7 +1,7 @@
 # stuProject
 ## This is a group-work game design
 <br />
-###Version 1.2 2017-5-6 
+### Version 1.2 2017-5-6 
 > by wangning
 <br />
 There are some changes:
